@@ -1,0 +1,7 @@
+* {box-sizing:border-box;}
+body {
+    margin:0;
+    background:beige;
+    padding:10vw;
+    min-height:100vh;
+}
